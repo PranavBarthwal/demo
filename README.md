@@ -1,3 +1,3 @@
 # demo
 
-Author : Pranav Barthwal
+Author : Pranav Barthwal (AI&DS, BPIT)
